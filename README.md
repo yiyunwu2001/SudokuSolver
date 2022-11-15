@@ -1,15 +1,15 @@
-# SudokuSolver
+# Sudoku Puzzle Solver
 
-As an avid sudoku puzzler, I have always wanted to create a program that could supplement a human puzzle solver by instantly filling the grid with markings and simple deductions. The C language program I created runs on XCode. At this point, the program can solve advanced-level problems that require the use of XWing and YWing solving techniques.
+As an avid sudoku puzzler, I had always wanted to create a program that could supplement a human puzzle solver by instantly filling the grid with markings and simple deductions. The C language program I created runs on XCode. At this point, the program can solve advanced-level problems that require the use of XWing and YWing solving techniques.
 
-Sudoku Techniques Used:
-Doubles
-Hidden singles
-Hidden doubles
-Singles
-Locked candidate
-Pointing tuple
-X wing
+Sudoku Techniques Used:\
+Doubles\
+Hidden singles\
+Hidden doubles\
+Singles\
+Locked candidate\
+Pointing tuple\
+X wing\
 Y wing
 
 More algorithms, such as "hidden triples," will be added in the future to improve the program's problem-solving capabilities.
